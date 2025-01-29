@@ -23,12 +23,12 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/forum-app.git
+   git clone https://github.com/YanitsaNikolova/forum-fe-main.git
    ```
 
 2. Navigate to the project directory:
    ```sh
-   cd forum-app
+   cd forum-fe-main
    ```
 
 3. Install dependencies:
@@ -41,7 +41,7 @@ To get started with the project, follow these steps:
    npm run dev
    ```
 
-5. Open your browser and navigate to `http://localhost:3000`.
+5. Open your browser and navigate to `http://localhost:8081`.
 
 ## Folder Structure
 
